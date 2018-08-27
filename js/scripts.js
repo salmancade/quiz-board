@@ -43,6 +43,7 @@ $(document).ready(function () {
   $("#question2").text(questions[1].question);
   $("#question3").text(questions[2].question);
 });
+
 // $(document).ready(function() {
 //         $("button#hello").click(function() {
 //           $("ul#user").prepend("<li>Hello!</li>");
