@@ -1,0 +1,12 @@
+body{
+  background-blend-mode: darken;
+}
+p{
+  text-align: justify;
+}
+..img{
+  background-repeat: no-repeat;
+  width: 100%;
+  background-image: image(..img_lights_wide.jpg);
+  backface-visibility: hidden;
+}
