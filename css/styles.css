@@ -1,4 +1,4 @@
-/* body{
+body{
   background-blend-mode: darken;
 }
 p{
@@ -11,7 +11,7 @@ p{
   backface-visibility: hidden;
 }
 
-.container{
+/* .container{
   padding: 30px;
   margin: 20px;
 }
