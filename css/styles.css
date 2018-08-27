@@ -1,4 +1,4 @@
-body{
+/* body{
   background-blend-mode: darken;
 }
 p{
@@ -10,3 +10,11 @@ p{
   background-image: image(..img_lights_wide.jpg);
   backface-visibility: hidden;
 }
+
+.container{
+  padding: 30px;
+  margin: 20px;
+}
+h1{
+  text-align: center;
+} */
